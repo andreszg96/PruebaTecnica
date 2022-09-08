@@ -1,5 +1,3 @@
-package newpackage;
-
 /*
  * @author 
  * Andrés Zapata Gallego
